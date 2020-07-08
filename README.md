@@ -5,7 +5,7 @@ This datapack provides the ability for server admins to manage their servers mor
 
 Features |
 -------- |
-Killing entities and group of entities |
+Killing entities and groups of entities |
 Server scheduler to schedule commands and server shutdowns |
 
 ## Documentation
