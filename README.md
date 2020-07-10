@@ -4,8 +4,8 @@ This datapack provides the ability for server admins to manage their servers mor
 
 ## Requirements
 1. You need to run your server as **Vanilla 1.16**. (Any 1.16.x works, also it is only tested on bukkit and vanilla, so **CraftBukkit and Vanilla works!**)
-1. You need to set *function-permission-level* in **server.properties** to **level 4** ([Tutorial how to do that](LINK_TO_WIKI))
-1. You need to be operator on the server in order to use the datapack. ([Tutorial how to do that](LINK_TO_WIKI))
+1. You need to set *function-permission-level* in **server.properties** to **level 4** ([Tutorial how to do that](https://github.com/xXTurnerLP/mc-server-manager/wiki/How-to-change-function-permission-level))
+1. You need to be operator on the server in order to use the datapack. ([Tutorial how to do that](https://github.com/xXTurnerLP/mc-server-manager/wiki/How-to-become-operator))
 1. You ***should not*** use any function under the *_private* namespace. Doing so, could cause damage to the datapack's working data or **your world**.
 
 Features |
